@@ -1,0 +1,18 @@
+[
+	{
+		"args": null,
+		"command": "select_all"
+	},
+	{
+		"args": null,
+		"command": "okhttplogremove"
+	},
+	{
+		"args": null,
+		"command": "pretty_json"
+	},
+	{
+		"args": {"to": "eof", "extend": false},
+		"command": "move_to"
+	}
+]
