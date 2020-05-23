@@ -1,0 +1,5 @@
+[
+	{"keys":["command+shift+m"], "command": "kdcformat"},
+	{"keys":["command+shift+n"], "command": "okhttplogremove"},
+	{"keys":["command+shift+l"], "command": "run_macro_file", "args":{"file":"Packages/User/remove_logs_and_format.sublime-macro"}}
+]
